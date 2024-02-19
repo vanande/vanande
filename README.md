@@ -3,6 +3,6 @@
     <p>Hello 👋 This is vanande. 😎</p>
     <p>Nice to meet you!</p>
 </h1>
-<img src="tower.jpg?raw=true">
+<img src="batfrog.jpg?raw=true">
 <span>Go <a href="https://civitai.com/">there</a> to find cool ai image</span>
 
