@@ -5,8 +5,8 @@
 </h1>
 
 <div align="center">
- <img height="150em" src="https://github.jayllyz.fr?username=vanande&theme=github_dark_dimmed&show_icons=true&bg_color=00000000&hide_border=true" alt="jayllyz-stats"/>
- <img height="150em" src="https://github.jayllyz.fr/top-langs/?username=vanande&layout=compact&theme=github_dark_dimmed&bg_color=00000000&hide=shaderlab,SCSS&exclude_repo=jayllyz.github.io&langs_count=6&hide_border=true" alt="jayllyz-langs"/>
+ <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vanande&theme=github_dark_dimmed&show_icons=true&bg_color=00000000&hide_border=true" alt="vanande-stats"/>
+ <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vanande&layout=compact&theme=github_dark_dimmed&bg_color=00000000&hide=shaderlab,SCSS&exclude_repo=jayllyz.github.io&langs_count=6&hide_border=true" alt="vanande-langs"/>
 </div>
 
 <img src="batfrog.jpg?raw=true">
