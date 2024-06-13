@@ -4,7 +4,7 @@
     <p>Nice to meet you!</p>
 </h1>
 <div align="center">
-  
+    
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https://www.linkedin.com/in/vanandek/)](https://www.linkedin.com/in/vanandek/)
   [![Mail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:vanandek@gmail.com)](mailto:vanandek@gmail.com)
 </div>
@@ -15,5 +15,5 @@
 
 </div>
 
-<span>Go <a href="https://civitai.com/">there</a> to find cool ai image</span>
+<span>Go <a href="https://civitai.com/" target="_blank">there</a> to find cool ai image</span>
 
